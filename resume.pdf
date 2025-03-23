@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Hemanthini P</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 5px;
+        }
+        .contact {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hemanthini P</h1>
+        <p class="contact">Email: <a href="mailto:hemanthini14@gmail.com">hemanthini14@gmail.com</a></p>
+        <p class="contact">Contact: 9444409401</p>
+
+        <div class="section">
+            <h2>Career Objective</h2>
+            <p>To obtain a position in a fast-paced and challenging environment where I can use my skills and experience to make a significant contribution.</p>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <ul>
+                <li><strong>B.Sc Computer Science</strong>, New Prince Shri Bhavani Arts & Science College (2023 – 2026) - 67.70% (Till 4th Semester) (Pursuing)</li>
+                <li><strong>HSC</strong>, Government Hr. Sec. School (2022) - 72.66%</li>
+                <li><strong>SSLC</strong>, Government Hr. Sec. School (2020) - Pass</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>Basic in Python</li>
+                <li>Java</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Non-Technical Skills</h2>
+            <ul>
+                <li>Data Structure</li>
+                <li>Communication Skills</li>
+                <li>Leadership Skills</li>
+                <li>Teamwork Skills</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Certification Courses</h2>
+            <ul>
+                <li>Object-Oriented Programming using Python (Naan Mudhalvan, 2024)</li>
+                <li>Introduction to Agile Methodology (Naan Mudhalvan, 2024)</li>
+                <li>Basics of Python (Naan Mudhalvan, 2024)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Awards and Achievements</h2>
+            <ul>
+                <li>Certification in Kabaddi (2018)</li>
+                <li>Certification in Shot Put (2019)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Hobbies</h2>
+            <ul>
+                <li>Painting</li>
+                <li>Singing</li>
+                <li>Dancing</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Personal Details</h2>
+            <ul>
+                <li><strong>Father's Name:</strong> Parimalam A.V</li>
+                <li><strong>Date of Birth:</strong> 14.08.2004</li>
+                <li><strong>Gender:</strong> Female</li>
+                <li><strong>Languages Known:</strong> Tamil & English</li>
+                <li><strong>Address:</strong> 1/66A Bharathiyar Second Cross Street, Moovarasampet, Chennai-91</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Declaration</h2>
+            <p>I hereby declare that the above-furnished details are true to the best of my knowledge.</p>
+            <p><strong>Place:</strong> Chennai</p>
+            <p><strong>Date:</strong> __________</p>
+            <p><strong>Signature:</strong> Hemanthini P</p>
+        </div>
+    </div>
+</body>
+</html>
